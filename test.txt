@@ -1,6 +1,3 @@
-https://github.com/kurit/myGit.git
+テキスト修正
 
-39020321+kurit@users.noreply.github.com
-
-
-test
+てすとてすとてすと
